@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **elakhfif@student.1337.ma**
 
-- ⚡ Fun fact **I Think I Lost MY CTRL**
+- ⚡ Fun fact  **i can't understand my codes.!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
