@@ -34,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=7ARZAN&show_icons=true&locale=en&layout=compact" alt="7ARZAN" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=7ARZAN&show_icons=true&locale=en" alt="7ARZAN" /></p>
+
+[![abel-oua's 42 stats](https://badge.mediaplus.ma/greenbinary/elakhfif)](https://github.com/oakoudad/badge42)
