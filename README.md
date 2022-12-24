@@ -39,4 +39,4 @@
 
 ---------------
 
-[![elakhfif's 42 stats](https://badge.mediaplus.ma/greenbinary/elakhfif)](https://github.com/oakoudad/badge42) | https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white
+[![elakhfif's 42 stats](https://badge.mediaplus.ma/greenbinary/elakhfif)](https://github.com/oakoudad/badge42) | https://img.shields.io/badge/42-000000.svg?style=for-the-badge&logo=42&logoColor=white
