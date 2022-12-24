@@ -26,17 +26,11 @@
 
 </div>
 
+---------------
 
-## My Skills
+| [![7ARZAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=7ARZAN&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/7ARZAN?tab=repositories) | [![7ARZAN's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7ARZAN&layout=compact&hide_border=true&theme=jolly)](https://github.com/amaitou?tab=repositories) |
+|:-:|:-:|
 
-[![My Skills](https://skillicons.dev/icons?i=c,bash,vim,vscode,html,css,js,ts,solidity,react,nextjs,tailwind,bootstrap,vercel,wordpress,git,figma)](https://skillicons.dev)
-
-
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=7ARZAN&show_icons=true&locale=en&layout=compact" alt="7ARZAN" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=7ARZAN&show_icons=true&locale=en" alt="7ARZAN" /></p>
+---------------
 
 [![elakhfif's 42 stats](https://badge.mediaplus.ma/greenbinary/elakhfif)](https://github.com/oakoudad/badge42)
