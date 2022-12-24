@@ -2,7 +2,6 @@
 <h1 align="center"> I'm 7ARZAN</h1>
 <h3 align="center">A stupid person coding stupid codes.</h3>
   
----------------
   
 - 🔭 I’m currently coding stupid codes!
 
@@ -12,7 +11,6 @@
 
 - ⚡ Fun fact  **i can't understand my codes.!**
   
----------------
   
 <h3 align="left">Connect with me:</h3>
   <p align="center"> 
