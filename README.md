@@ -22,6 +22,10 @@
 
 </div>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/7ARZAN/count.svg" />
+</p>
 
 ## My Skills
 
