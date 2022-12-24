@@ -17,6 +17,7 @@
 <a href="https://twitter.com/in/7AR24N" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="7AR24N" height="30" width="40" /></a>
 <a href="https://instagram.com/tarzaannnnnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tarzaannnnnn" height="30" width="40" /></a>
 <a href="https://discord.gg/7ARZAN#3357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7ARZAN#3357" height="30" width="40" /></a>
+ <a href="https://img.shields.io/badge/42-000000.svg?style=for-the-badge&logo=42&logoColor=white" height="30" width="40" /></a>
 </p>
   
   
@@ -39,4 +40,4 @@
 
 ---------------
 
-[![elakhfif's 42 stats](https://badge.mediaplus.ma/greenbinary/elakhfif)](https://github.com/oakoudad/badge42) | https://img.shields.io/badge/42-000000.svg?style=for-the-badge&logo=42&logoColor=white
+[![elakhfif's 42 stats](https://badge.mediaplus.ma/greenbinary/elakhfif)](https://github.com/oakoudad/badge42) | 
