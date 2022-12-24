@@ -17,7 +17,6 @@
 <a href="https://twitter.com/in/7AR24N" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="7AR24N" height="30" width="40" /></a>
 <a href="https://instagram.com/tarzaannnnnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tarzaannnnnn" height="30" width="40" /></a>
 <a href="https://discord.gg/7ARZAN#3357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7ARZAN#3357" height="30" width="40" /></a>
- <img src="https://img.shields.io/badge/42-000000.svg?style=for-the-badge&logo=42&logoColor=white" />
 </p>
   
   
@@ -35,7 +34,7 @@
 
 ---------------
 
-| [![7ARZAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=7ARZAN&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/7ARZAN?tab=repositories) | [![7ARZAN's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7ARZAN&layout=compact&hide_border=true&theme=jolly)](https://github.com/amaitou?tab=repositories) |
+| [![7ARZAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=7ARZAN&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/7ARZAN?tab=repositories) | [![7ARZAN's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7ARZAN&layout=compact&hide_border=true&theme=jolly)](https://github.com/amaitou?tab=repositories) | <img src="https://img.shields.io/badge/42-000000.svg?style=for-the-badge&logo=42&logoColor=white" />
 |:-:|:-:|
 
 ---------------
