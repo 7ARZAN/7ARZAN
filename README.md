@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
   <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+  <img src="https://profile-counter.glitch.me/MaherAzzouzi/count.svg" />
 </p>
 <p align="left">
 <a href="https://twitter.com/in/7AR24N" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="7AR24N" height="30" width="40" /></a>
