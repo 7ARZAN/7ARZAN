@@ -39,4 +39,4 @@
 
 ---------------
 
-[![elakhfif's 42 stats](https://badge.mediaplus.ma/greenbinary/elakhfif)](https://github.com/oakoudad/badge42)
+[![elakhfif's 42 stats](https://badge.mediaplus.ma/greenbinary/elakhfif)](https://github.com/oakoudad/badge42) | ![tryhackme stats](https://raw.githubusercontent.com/<7ARZAN>/<7ARZAN>/master/assets/thm_propic.png)
