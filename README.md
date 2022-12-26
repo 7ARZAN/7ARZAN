@@ -38,5 +38,5 @@
 
 ---------------
 <h3 align="center">
-[![elakhfif's 42 stats](https://badge.mediaplus.ma/greenbinary/elakhfif)](https://github.com/oakoudad/badge42)
+![elakhfif's 42 stats](https://badge.mediaplus.ma/greenbinary/elakhfif)](https://github.com/oakoudad/badge42)
 </h3>
