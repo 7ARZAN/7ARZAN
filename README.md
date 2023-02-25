@@ -10,6 +10,10 @@
 - 📫 How to reach me **elakhfif@student.1337.ma**
 
 - ⚡ Fun fact  **i can't understand my codes.!**
+
+📈 my github stats
+
+<a href="https://app.daily.dev/74R24N"><img src="https://api.daily.dev/devcards/ccbac9536dff499ebf34aab70fe0477f.png?r=w92" width="400" alt="ꝉɅЯƧɅ₪'s Dev Card"/></a>
   
  
   <h3 align="left">Connect with me:</h3>
