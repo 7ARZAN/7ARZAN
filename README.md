@@ -4,7 +4,7 @@
   
  📈 my github stats
 
-<a href="https://app.daily.dev/74R24N"><img src="[https://api.daily.dev/devcards/ccbac9536dff499ebf34aab70fe0477f.png?r=w92](https://api.daily.dev/devcards/b322179ef8ad475aaffbf506aa9ba2ed.png?r=6zb)" width="400" alt="ꝉɅЯƧɅ₪'s Dev Card"/></a>
+<a href="https://app.daily.dev/74R24N"><img src="https://api.daily.dev/devcards/b322179ef8ad475aaffbf506aa9ba2ed.png?r=6zb" width="400" alt="ꝉɅЯƧɅ₪'s Dev Card"/></a>
   
 - 🔭 I’m currently coding stupid codes!
 
