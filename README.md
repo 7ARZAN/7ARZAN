@@ -2,6 +2,9 @@
 <h1 align="center"> I'm 7ARZAN</h1>
 <h3 align="center">A stupid person coding stupid codes.</h3>
   
+ 📈 my github stats
+
+<a href="https://app.daily.dev/74R24N"><img src="[https://api.daily.dev/devcards/ccbac9536dff499ebf34aab70fe0477f.png?r=w92](https://api.daily.dev/devcards/b322179ef8ad475aaffbf506aa9ba2ed.png?r=6zb)" width="400" alt="ꝉɅЯƧɅ₪'s Dev Card"/></a>
   
 - 🔭 I’m currently coding stupid codes!
 
@@ -11,9 +14,6 @@
 
 - ⚡ Fun fact  **i can't understand my codes.!**
 
-📈 my github stats
-
-<a href="https://app.daily.dev/74R24N"><img src="https://api.daily.dev/devcards/ccbac9536dff499ebf34aab70fe0477f.png?r=w92" width="400" alt="ꝉɅЯƧɅ₪'s Dev Card"/></a>
   
  
   <h3 align="left">Connect with me:</h3>
