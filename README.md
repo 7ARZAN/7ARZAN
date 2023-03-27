@@ -2,9 +2,6 @@
 <h1 align="center"> I'm 7ARZAN</h1>
 <h3 align="center">A stupid person coding stupid codes.</h3>
   
- 📈 my github stats
-
-<a href="https://app.daily.dev/74R24N"><img src="https://api.daily.dev/devcards/b322179ef8ad475aaffbf506aa9ba2ed.png?r=6zb" width="400" alt="ꝉɅЯƧɅ₪'s Dev Card"/></a>
   
 - 🔭 I’m currently coding stupid codes!
 
@@ -29,7 +26,7 @@
   <img src="https://profile-counter.glitch.me/7ARZAN/count.svg" />
 </p>
 
-
+📈 my github stats :
 ---------------
 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
