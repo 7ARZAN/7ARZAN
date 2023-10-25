@@ -1,11 +1,11 @@
 <h1 align="center">HELLO WORLD  👋 !
-<h1 align="center"> I'm 7ARZAN</h1>
+<h1 align="center"> I'm tarzan </h1>
 <h3 align="center">A stupid person coding stupid codes.</h3>
   
   
 - 🔭 I’m currently coding stupid codes!
 
-- 👨‍💻 All of my projects are available at [https://github.com/7ARZAN](https://github.com/7ARZAN)
+- 👨‍💻 All of my projects are available at [https://github.com/7ARZAN](https://github.com/itical-hakor)
 
 - 📫 How to reach me **elakhfif@student.1337.ma**
 
@@ -23,7 +23,7 @@
   
   <h3 align="center"
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/7ARZAN/count.svg" />
+  <img src="https://profile-counter.glitch.me/itical-hakor/count.svg" />
 </p>
 
 📈 my github stats :
@@ -35,7 +35,7 @@
 
 ---------------
 
-| [![7ARZAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=7ARZAN&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/7ARZAN?tab=repositories) [![7ARZAN's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7ARZAN&layout=compact&hide_border=true&theme=jolly)](https://github.com/amaitou?tab=repositories)
+| [![7ARZAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=itical-hakor&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/itical-hakor?tab=repositories) [![7ARZAN's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itical-hakor&layout=compact&hide_border=true&theme=jolly)](https://github.com/amaitou?tab=repositories)
 
 ---------------
 [![elakhfif's 42 stats](https://badge.mediaplus.ma/greenbinary/elakhfif)](https://github.com/oakoudad/badge42)
