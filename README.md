@@ -1,5 +1,5 @@
 <h1 align="center">HELLO WORLD  👋 !
-<h1 align="center"> I'm tarzan </h1>
+<h1 align="center"> I'm TARZAN </h1>
 <h3 align="center">A stupid person coding stupid codes.</h3>
   
   
