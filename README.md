@@ -5,7 +5,7 @@
   
 - 🔭 I’m currently coding stupid codes!
 
-- 👨‍💻 All of my projects are available at [https://github.com/7ARZAN](https://github.com/itical-hakor)
+- 👨‍💻 All of my projects are available at [https://github.com/itical-hakor](https://github.com/itical-hakor)
 
 - 📫 How to reach me **elakhfif@student.1337.ma**
 
