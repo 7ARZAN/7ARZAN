@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/itical-hakor](https://github.com/7ARZAN?tab=repositories)
 
-- 📫 How to reach me **elakhfif@student.1337.ma**
+- 📫 How to reach me **elakhfif@proton.me**
 
 - ⚡ Fun fact  **i can't understand my codes.!**
 
