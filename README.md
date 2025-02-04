@@ -35,7 +35,7 @@
 
 ---------------
 
-[![7ARZAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=7ARZAN&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/7ARZAN?tab=repositories)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![7ARZAN's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7ARZAN&layout=compact&hide_border=true&theme=jolly)](https://github.com/7ARZAN?tab=repositories)
+[![7ARZAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=7ARZAN&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=dark)](https://github.com/7ARZAN?tab=repositories)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![7ARZAN's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7ARZAN&layout=compact&hide_border=true&theme=dark)](https://github.com/7ARZAN?tab=repositories)
 
 ---------------
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![elakhfif's 42 stats](https://badge.mediaplus.ma/greenbinary/elakhfif)](https://github.com/oakoudad/badge42)
