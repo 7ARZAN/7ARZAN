@@ -15,14 +15,6 @@
  
   <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/7AR24N" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="7AR24N" height="30" width="40" /></a>
-<a href="https://instagram.com/tarzaannnnnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tarzaannnnnn" height="30" width="40" /></a>
-<a href="https://discord.gg/7ARZAN#3357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7ARZAN#3357" height="30" width="40" /></a>
-</p>
-
-### Blogs posts
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://dev.to/tarzanlevrai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tarzanlevrai" height="30" width="40" /></a>
 <a href="https://twitter.com/7ar24n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="7ar24n" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/el-housseine-lakhfif-921051272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="el-housseine-lakhfif-921051272" height="30" width="40" /></a>
