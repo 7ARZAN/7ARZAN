@@ -11,5 +11,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: '4'
-          feed_list: 'https://dev.to/feed/your-devto-username'
+          feed_list: 'https://dev.to/feed/tarzanlevrai'
           commit_message: 'Update README with latest Dev.to posts'
