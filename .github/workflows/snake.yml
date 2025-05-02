@@ -1,21 +1,30 @@
 name: Generate Contribution Snake
+
 on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
-      - uses: Platane/snk@master
+
+      - uses: Platane/snk@v3
         with:
           github_user_name: 7ARZAN
           svg_out_path: output/github-contribution-grid-snake.svg
+
       - uses: actions/upload-artifact@v3
         with:
           name: snake-svg
           path: output/github-contribution-grid-snake.svg
+
       - name: Commit SVG
         run: |
           git config --local user.email "action@github.com"
