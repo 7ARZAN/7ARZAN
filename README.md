@@ -15,7 +15,7 @@
 
 ## Connect with Me
 - 📫 Email: [elakhfif@proton.me](mailto:elakhfif@proton.me)
-- ⚡ Fun fact: Always excited to tackle new coding challenges!
+- ⚡ Fun fact: Sometimes i can't understand my codes!
 - **Social Links**:
   <p align="center">
     <a href="https://dev.to/tarzanlevrai" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tarzanlevrai" height="30" width="40" /></a>
