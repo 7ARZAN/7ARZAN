@@ -1,5 +1,4 @@
 # <div align="center">HELLO WORLD 👋 !</div>
-# <div align="center">I'm TARZAN</div>
 
 <div align="center">
   <h3>I'm a motivated software engineering student from 1337 Coding School, passionate about crafting innovative solutions with C, C++, Django, and Docker. I thrive on peer learning and hands-on development, aiming to drive technological advancement.</h3>
@@ -34,4 +33,4 @@
 ## GitHub Stats
 [![7ARZAN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=7ARZAN&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=dark)](https://github.com/7ARZAN?tab=repositories)
 [![7ARZAN's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7ARZAN&layout=compact&hide_border=true&theme=dark)](https://github.com/7ARZAN?tab=repositories)
-[![elakhfif's 42 Stats](https://badge.mediaplus.ma/black/elakhfif)](https://github.com/oakoudad/badge42)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![elakhfif's 42 Stats](https://badge.mediaplus.ma/black/elakhfif)](https://github.com/oakoudad/badge42)
