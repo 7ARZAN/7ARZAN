@@ -1,9 +1,13 @@
 <h1 align="center">HELLO WORLD  👋 !
 <h1 align="center"> I'm TARZAN </h1>
-<h3 align="center">A stupid person coding stupid codes.</h3>
+<h3 align="center">I'm a motivated software engineering student from 1337 Coding School, passionate about crafting innovative solutions with C, C++, Django, and Docker. I thrive on peer learning and hands-on development, aiming to drive technological advancement.</h3>
   
-  
-- 🔭 I’m currently coding stupid codes!
+## Skills
+- Languages: C, C++, JavaScript, Python
+- Tools: Docker, Kubernetes, Elastic Stack
+- Frameworks: Django, Node.js
+- Databases: PostgreSQL, MongoDB, MySQL, MariaDB
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/itical-hakor](https://github.com/7ARZAN?tab=repositories)
 
