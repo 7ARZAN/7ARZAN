@@ -25,11 +25,6 @@
     <a href="https://www.leetcode.com/74r24n" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="74r24n" height="30" width="40" /></a>
   </p>
 
-## Visitor Count
-<p align="center">
-  <img src="https://profile-counter.glitch.me/7ARZAN/count.svg" alt="visitor count" />
-</p>
-
 ## GitHub Stats
 [![7ARZAN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=7ARZAN&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=dark)](https://github.com/7ARZAN?tab=repositories)
 [![7ARZAN's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7ARZAN&layout=compact&hide_border=true&theme=dark)](https://github.com/7ARZAN?tab=repositories)
