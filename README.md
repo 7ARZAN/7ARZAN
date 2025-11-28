@@ -5,10 +5,10 @@
 </div>
 
 ## Skills
-- **Languages**: C, C++, JavaScript, Python
+- **Languages**: C, C++, JavaScript, Python, TypeScript
 - **Tools**: Docker, Kubernetes, Elastic Stack
 - **Frameworks**: Django, Node.js
-- **Databases**: PostgreSQL, MongoDB, MySQL, MariaDB
+- **Databases**: PostgreSQL, MongoDB, MySQL, MariaDB, redis
 
 ## Projects
 - 👨‍💻 All of my projects are available at [https://github.com/7ARZAN?tab=repositories](https://github.com/7ARZAN?tab=repositories)
